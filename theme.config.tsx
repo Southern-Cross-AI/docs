@@ -13,6 +13,7 @@ const config: DocsThemeConfig = {
   footer: {
     text: "Southern Cross Documentation",
   },
+  primaryHue: 277,
 };
 
 export default config;
