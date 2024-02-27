@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: "https://discord.gg/Hrs3SgRk",
   },
-  docsRepositoryBase: "https://github.com/Southern-Cross-AI/docs",
+  docsRepositoryBase: "https://github.com/Southern-Cross-AI/docs/tree/preview",
   footer: {
     text: "Southern Cross Documentation",
   },
