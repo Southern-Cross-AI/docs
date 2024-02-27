@@ -13,7 +13,9 @@ const config: DocsThemeConfig = {
   footer: {
     text: "Southern Cross Documentation",
   },
-  primaryHue: 277,
+  editLink: {
+    text: "Edit this page on GitHub",
+  },
 };
 
 export default config;
