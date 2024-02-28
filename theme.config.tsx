@@ -16,6 +16,12 @@ const config: DocsThemeConfig = {
   editLink: {
     text: "Edit this page on GitHub",
   },
+  faviconGlyph: "🤖",
+  head: (
+    <>
+      <title>Southern Cross AI</title>
+    </>
+  ),
 };
 
 export default config;
