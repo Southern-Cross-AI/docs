@@ -22,6 +22,7 @@ const config: DocsThemeConfig = {
       <title>Southern Cross AI</title>
     </>
   ),
+
 };
 
 export default config;
