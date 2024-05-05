@@ -1,6 +1,8 @@
 {
   "index": "Introduction",
+  "repositories": "Repositories",
   "team": "The Team",
+  "about": "About",
   "homepage": {
     "title": "Homepage",
     "type": "page",
